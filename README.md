@@ -1,0 +1,2 @@
+# Active_Noise_Control
+ANCの基本的なPythonコードをアップロードしていきます。
